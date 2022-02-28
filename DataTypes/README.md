@@ -2,9 +2,9 @@
 ## Примитивные типы
 Примитивные типы - типы, которые используются так часто, что компилятор поддерживает их по-умолчанию.</br>
 Таблица примитивных типов FCL (Framework Class Library):
-![FCL-типы](/imgReadme/fcl_1.png)
-![FCL-типы](/imgReadme/fcl_2.png)
-![FCL-типы](/imgReadme/fcl_3.png)
+![FCL-типы](./imgReadme/fcl_1.png)
+![FCL-типы](./imgReadme/fcl_2.png)
+![FCL-типы](./imgReadme/fcl_3.png)
 
 ### checked и unchecked
 При выполеннии операций над примитивными числовыми типами может происходить переполнение - 
