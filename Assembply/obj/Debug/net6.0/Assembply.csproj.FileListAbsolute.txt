@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\bin\Debug\net6.0\Assembply.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\bin\Debug\net6.0\Assembply.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\bin\Debug\net6.0\Assembply.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\bin\Debug\net6.0\Assembply.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\bin\Debug\net6.0\Assembply.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\refint\Assembply.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\Assembply.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\obj\Debug\net6.0\ref\Assembply.dll

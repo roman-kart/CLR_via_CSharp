@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UH3U4qMW76iVX9Q4cFvyG5MzRS6SuWUp0xfXj27ZfsWpt0yXQx1oX9KcPDhY8Oco4VGlOgvH2WkiNvCyBvYOtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stupid_Guy\\Documents\\GitHub\\CLR_via_CSharp\\Assembply\\Assembply.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stupid_Guy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

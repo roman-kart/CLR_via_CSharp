@@ -1,0 +1,7 @@
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\bin\Debug\SeemblyFramework.exe.config
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\bin\Debug\SeemblyFramework.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\bin\Debug\SeemblyFramework.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\obj\Debug\SeemblyFramework.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\obj\Debug\SeemblyFramework.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\obj\Debug\SeemblyFramework.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\Assembply\SeemblyFramework\obj\Debug\SeemblyFramework.pdb

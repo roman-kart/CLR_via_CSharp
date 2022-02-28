@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

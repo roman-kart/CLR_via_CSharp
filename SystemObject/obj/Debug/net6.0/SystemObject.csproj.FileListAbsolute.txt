@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\bin\Debug\net6.0\SystemObject.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\bin\Debug\net6.0\SystemObject.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\bin\Debug\net6.0\SystemObject.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\bin\Debug\net6.0\SystemObject.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\bin\Debug\net6.0\SystemObject.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\refint\SystemObject.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\SystemObject.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\SystemObject\obj\Debug\net6.0\ref\SystemObject.dll
