@@ -28,9 +28,9 @@
 **public static [Type] operator [operator](Type val1, Type val2) - перегрузка операторов**
 **public static explicit operator Type(CurrentType val1) - явное преобразование**
 **public static implicit operator CurrentType(Type val1) - неявное приобразование**
-[!Перегружаемые операторы](/imgReadme/ops_1.png)
-[!Перегружаемые операторы](/imgReadme/ops_2.png)
-[!Перегружаемые операторы](/imgReadme/ops_3.png)
+[!Перегружаемые операторы](./imgReadme/ops_1.png)
+[!Перегружаемые операторы](./imgReadme/ops_2.png)
+[!Перегружаемые операторы](./imgReadme/ops_3.png)
 
 ## Методы расширения
 Методы расширения предназначены для добавления пользовательских методов к закрытому типу.</br>
