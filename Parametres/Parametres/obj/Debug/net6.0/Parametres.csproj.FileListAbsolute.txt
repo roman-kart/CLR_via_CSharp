@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\bin\Debug\net6.0\Parametres.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\bin\Debug\net6.0\Parametres.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\bin\Debug\net6.0\Parametres.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\bin\Debug\net6.0\Parametres.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\bin\Debug\net6.0\Parametres.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\refint\Parametres.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\Parametres.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\Parametres\Parametres\obj\Debug\net6.0\ref\Parametres.dll
