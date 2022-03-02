@@ -1,0 +1,3 @@
+﻿using WorkWithStrings;
+
+WorkWithChars.Do();
