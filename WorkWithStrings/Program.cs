@@ -1,3 +1,4 @@
 ﻿using WorkWithStrings;
 
-WorkWithChars.Do();
+//WorkWithChars.Do();
+WorkWithStrings.WorkWithStrings.Do();
