@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Globalization;
+using System.Security.Cryptography;
 
 namespace WorkWithStrings
 {
@@ -52,6 +53,65 @@ namespace WorkWithStrings
 
             var ci = new CultureInfo("en-US");
             var comi = ci.CompareInfo;
+
+            // interning
+            var words = GetRandomStrings(10000000, 2);
+            TimerDecorator<string, string[], int> timerDecorator = new TimerDecorator<string, string[], int>(NumTimesWordAppears);
+            var count = timerDecorator.DetemineExecutionTime("ФЫ", words, out double executionTime);
+            Console.WriteLine($"Without intern. count: {count}, milliseconds: {executionTime}");
+
+            // интернируем все слова
+            foreach (var word in words)
+            {
+                String.Intern(word);
+            }
+            TimerDecorator<string, string[], int> timerDecoratorIntern = new TimerDecorator<string, string[], int>(NumTimesWordAppearsIntern);
+            count = timerDecoratorIntern.DetemineExecutionTime("ФЫ", words, out executionTime);
+            Console.WriteLine($"With intern. count: {count}, milliseconds: {executionTime}");
+        }
+        private static string[] GetRandomStrings(int count = 100, int wordLength = 10)
+        {
+            var words = new string[count];
+            var upperSymbolsSequence = 1040;
+            var lowerSymbolSequence = 1072;
+            string newWordStr;
+            for (int i = 0; i < words.Length; i++)
+            {
+                char[] newWord = new char[wordLength];
+                for (int j = 0; j < wordLength; j++)
+                {
+                    char currentChar = (char)RandomNumberGenerator.GetInt32(upperSymbolsSequence, lowerSymbolSequence);
+                    newWord[j] = currentChar;
+                }
+                newWordStr = String.Concat(newWord);
+                String.Intern(newWordStr);
+                words[i] = String.IsInterned(newWordStr);
+            }
+            return words;
+        }
+        private static int NumTimesWordAppears(string word, string[] wordArray)
+        {
+            int count = 0;
+            for (int i = 0; i < wordArray.Length; i++)
+            {
+                if (word.Equals(wordArray[i], StringComparison.Ordinal))
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+        private static int NumTimesWordAppearsIntern(string word, string[] wordArrayInterned)
+        {
+            int count = 0;
+            for (int i = 0; i < wordArrayInterned.Length; i++)
+            {
+                if (Object.ReferenceEquals(word, wordArrayInterned[i]))
+                {
+                    count++;
+                }
+            }
+            return count;
         }
         private static void ShowCompareResult<TVal, TResult>(TVal val1, TVal val2, TResult result, string operation, string addition)
         {
