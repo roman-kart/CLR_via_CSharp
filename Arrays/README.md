@@ -18,3 +18,4 @@ int[][] digitsJagged = new int[3][]; // массив массивов
 
 ## Инициализация элементов массива
 String[] names = new String[] { "Aidan", "Grant" };
+

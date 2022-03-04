@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AHP3iwFyqsFQgFaHZXlu6j9EbznrnIGFeSpEpwKwW0BanAVUXJUCdO6xZHdse7ZGVWoHx4zZbtvhiqcHH9YPdg==",
+  "dgSpecHash": "R6bbjcOVz7YzG7LRWsLn3L2+c4EzbDK3s7NUUgDMuhqEenoq3MV7ur2IlKsn3aP/1qrjsn/cNrjJPukFEs22zA==",
   "success": true,
-  "projectFilePath": "Z:\\2021_2022 учебный год\\31ИС\\УиАБД\\Первая подгруппа\\Карташев\\25.02.2022\\Arrays\\Arrays.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Stupid_Guy\\Documents\\GitHub\\CLR_via_CSharp\\CLR_via_CSharp\\Arrays\\Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stupid_Guy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
