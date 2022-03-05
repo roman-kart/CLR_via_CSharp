@@ -10,8 +10,9 @@ namespace Arrays
     {
         public static void Main(string[] args)
         {
-            //Arrays.Do();
-            SystemArray.Do();
+            // Arrays.Do();
+            // SystemArray.Do();
+            NonZeroBorder.Do();
         }
     }
 }
