@@ -72,8 +72,8 @@ internal class Feedback : System.MulticastDelegate {
 }
 ```
 Все делегаты производны от System.MulticastDelegate, который в свою очередь явялется производным от System.Delegate. System.Delegate является производным от object.
-[!Важные закрытые поля класса MulticastDelegate]("./imgReadme/del_imp_1.png)
-[!Важные закрытые поля класса MulticastDelegate]("./imgReadme/del_imp_2.png)
+[!Важные закрытые поля класса MulticastDelegate](./imgReadme/del_imp_1.png)
+[!Важные закрытые поля класса MulticastDelegate](./imgReadme/del_imp_2.png)
 Делегат - обертка для метода и класса, который содержит этот метод.
 Invoke - метод для вызова метода определенного объекта.
 
