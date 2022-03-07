@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\bin\Debug\net6.0\NullAble.exe
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\bin\Debug\net6.0\NullAble.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\bin\Debug\net6.0\NullAble.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\bin\Debug\net6.0\NullAble.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\bin\Debug\net6.0\NullAble.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\refint\NullAble.dll
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\NullAble.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\CLR_via_CSharp\CLR_via_CSharp\NullAble\obj\Debug\net6.0\ref\NullAble.dll
